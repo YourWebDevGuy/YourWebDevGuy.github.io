@@ -1,0 +1,126 @@
+---
+layout: post
+title: "SCaLE17x"
+date: 2019-03-11 06:00:00 -0700
+categories: expo, blog, scale
+---
+
+![Scale17x](/assets/img/scale17x.jpg){:class="img-responsive"}
+
+The Southern California Linux Expo is an annual Linux/Open Source/Free Software conference held in Los Angeles,
+California.
+
+The SCaLE conference has taken place since 2002 in Los Angeles, California.
+
+The event has which had been hosted previously in USC, The Los Angeles Convention Center, Radisson Hotel, Westin and
+Hilton all at the Los Angeles Airport, and more recently at the Pasadena Convention Center.
+
+I began attending in 2016 when they first came to the Pasadena Convention Center.
+
+I was working blocks from the convention center, and it was convenient for me to head over after work.
+
+The first time I attended I was very excited to be with fellow Linux Users since I felt that I was the only Linux user
+from all my friends, family and co-workers at the time.
+
+In my experience, the event is usually in March though this may not always be the case.
+
+## Talks
+
+The talks range from beginner to expert topics and cover everything from using Linux as your day-to-day desktop,
+Developer, Security, and DevOps related discussions.
+
+There were a few talks I didn’t get to make that I wish I could have, but there is so much going on that my discussions
+of interest are bound to conflict.
+
+The talks I did attend and found most interesting were:
+
+* Death Star Postmortem by Gareth Greenway
+* Is Your Team Ready for Microservices? by Michael Winslow
+* Open Data: The new oil fueling Civic Tech
+* Shadow Reader
+* Building Scalable and Resilient Apps with real-time GraphQL, Event-Sourcing, and Serverless
+
+**Talks I wish I could have made it to:**
+
+* Video Game Production with Open Source tools by Tom Lechner
+* MySQL Document Store – a NoSQL JSON document Database by Dave Stokes
+
+## Workshops
+
+The last three years I attended, I was able to make it to all of the workshops I wanted to participate in. This year
+though, the crowd was a lot larger (yay!) and many of the workshops I wanted to go to (e.g., Kubeflow workshop)
+
+* Developing Applications with Kubernetes by Cullen Taylor
+* Container Security by Michael Ducy
+* Security Analytics with Elastic by Matteo Rebeschini, Cami Lewis
+
+## Fun Events
+
+### Bad Voltage Live
+This year was the first time I attended the Bad Voltage Live set which seems to be a regular event at the conference.
+After a long day at the conference I usually wanted to rush home and rest, but this time I convinced my wife to join me,
+and since we were there together we decided to stay for all the extras. Not only was it funnier than I expected, but
+there were free drinks and food. I regret not staying for this every year!
+
+### Game Night
+When we saw the table advertising game night my wife and I were quite happy because they had a copy of Ticket to Ride
+which is one of our favorite games to play together. The Idea of playing with someone new was exciting. We hung around
+after most of the events waiting for Game Night to start The first hour of the game night they dedicate to kids.
+Afterward, they let the adults without kids in and open the bar with free drinks for everyone.
+
+My wife and I were searching everywhere for board games, but we didn’t find them.
+
+They did, however, have a “Vintage Museum” which was quite fun. I spent much time at the Nintendo 64 section.
+
+I was almost unbeatable at Tony Hawk Pro Skater 2 when playing against a lot of teens (to be fair, I had spent countless
+hours in my high school years playing this game – and these same kids kick my butt at Fortnite ). We decided to go home
+before 11 PM as we never found the board games.
+
+On our way out, what do you think we see? All the board games abandoned under a table near the entrance of the
+convention center.
+
+## Expo Booths
+The expo hall is an amazing way to get to talk to some of your favorite companies and sometimes you even get awesome
+stickers or swag (I came home with ten t-shirts, two pairs of socks, and over 20 stickers which now decorate my laptop.
+My favorite exhibitors were:
+
+* Twilio
+* Gitlab
+* Free Software Foundation
+* Electronic Frontier Foundation
+* The Linux Foundation
+* Fedora
+* Krita
+* Inkscape
+* System76
+* DC Darknet
+* Facebook
+* Hashicorp
+* Jenkins
+* Linode
+* Microsoft
+* PostgreSQL
+* MySQL
+* MariaDB
+* Rancher
+* SignalFX
+* The Walt Disney Company
+* YubiCo
+* Wavefront
+* VideoLAN organization
+
+## Last Day of SCaLE17x
+Unfortunately, I didn’t make it to the final day of SCaLE17x as it also happened to be my wife’s birthday and we met
+with the family in the morning to celebrate. We also had a concert to attend that evening, so we decided not to go.
+
+Talks I wish I would have attended included:
+
+* The Anatomy of a Secure Java Web App Using Apache Fortress by Shawn McKinney
+* Latency SLOs Done Right by Fred Moyer
+* Introduction to Blockchains by Lucy Wyman
+
+## Let’s meet at SCaLE18x!
+Even if you aren’t a “Linux” user the conference is a pretty great way to get familiar with Free Software
+(Krita, Inkscape, and more) alternatives to your more popular commercial software, the environment is inviting,
+and there are activities for just about anyone. I will be attending again next year so if you’d like to meet me there,
+sign up to the email list to find out when the registration for the next SCaLE event: https://www.socallinuxexpo.org.
