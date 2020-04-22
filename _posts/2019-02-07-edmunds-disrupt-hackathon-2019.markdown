@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Edmunds Disrupt Hackathon 2019"
-date: 2019-07-02 06:00:00 -0700
+date: 2019-02-07 06:00:00 -0700
 categories: edmunds, hackathon, blog
 ---
 ![Hackathon winners](/assets/img/hackathon_winners.jpg){:class="img-responsive"}
