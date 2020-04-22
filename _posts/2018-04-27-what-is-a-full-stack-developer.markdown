@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "What is a Full Stack Developer?"
-date: 2018-09-15 06:00:00 -0700
-categories: blog
+date: 2018-01-02 06:00:00 -0700
+categories: blog, career 
 ---
 
 ![Full Stack Developer](/assets/img/full_stack_developer.jpeg){:class="img-responsive}
