@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Abraham Cuenca also known as Your Web Dev Guy](/assets/img/abraham_cuenca.png){:class="img-responsive"}
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hi! I'm a Software Engineer from Los Angeles, CA. I've been  developing for the web since 2002.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm the co-founder of Tattio, a service for tattoo shops and tattoo enthusiasts.
 
+I've given a few talks at code meetups in the Los Angeles and Long Beach area and I am always 
+working on something interesting.
 
-[jekyll-organization]: https://github.com/jekyll
+In my spare time I enjoy playing board games, gaming on my PC with friends or making music with my
+digital audio workstation.
