@@ -2,7 +2,8 @@
 layout: post
 title: "Security Series: CSRF Cross-Site Request Forgery"
 date: 2020-01-03 06:00:00 -0700
-categories: security, csrf, blog
+categories: [blog, security]
+tags: [csrf]
 ---
 ![](/assets/img/pankaj-patel-u2Ru4QBXA5Q-unsplash.jpg){}
 

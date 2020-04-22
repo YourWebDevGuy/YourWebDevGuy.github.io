@@ -2,7 +2,8 @@
 layout: post
 title: "My Experience with Thinkful's Engineering Immersion Program"
 date: 2018-04-27 06:00:00 -0700
-categories: bootcamp, education, blog, thinkful
+categories: [blog]
+tags: [bootcamp, education, thinkful]
 ---
 ![Thinkful](/assets/img/thinkful_logo.png){:class="img-responsive"}
 

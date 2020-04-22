@@ -2,7 +2,8 @@
 layout: post
 title: "SCaLE17x"
 date: 2019-03-11 06:00:00 -0700
-categories: expo, blog, scale
+categories: [blog]
+tags: [scale, expo]
 ---
 
 ![Scale17x](/assets/img/scale17x.jpg){:class="img-responsive"}

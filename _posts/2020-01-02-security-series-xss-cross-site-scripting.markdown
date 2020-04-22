@@ -2,7 +2,8 @@
 layout: post
 title: "Security Series: XSS Cross Site Scripting"
 date: 2020-01-02 06:00:00 -0700
-categories: blog security xss
+categories: [blog, security]
+tags: [xss]
 ---
 ![](/assets/img/ilya-pavlov-OqtafYT5kTw-unsplash.jpg){}
 

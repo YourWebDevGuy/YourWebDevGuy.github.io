@@ -2,7 +2,8 @@
 layout: post
 title: "I Officially joined Edmunds.com, Inc."
 date: 2018-05-02 06:00:00 -0700
-categories: career, edmunds, blog
+categories: [blog]
+tags: [career, edmunds]
 ---
 
 ![Edmunds Offices in Santa Monica](/assets/img/edmunds_santamonica.jpg){:class="img-responsive"}

@@ -2,7 +2,8 @@
 layout: post
 title: "Security Series: SQL Injections"
 date: 2020-01-01 06:00:00 -0700
-categories: security, sql, blog
+categories: [blog, security]
+tags: [sql]
 ---
 ![Earth Photo by NASA](/assets/img/nasa-Q1p7bh3SHj8-unsplash.jpg){:class="img-responsive"}
 
@@ -71,7 +72,6 @@ which  would return the result for bob along with an id and email:
 
 Behind the scenes we'd have the SQL statement: `SELECT * FROM users where username = "bob"` 
 
-
 but if someone was trying to perform a SQL injection attack they could enter quotes into the form:
 
 ![](/assets/img/form_bob_quotes.png)
@@ -91,8 +91,6 @@ which would return the three test records in our database:
 This happens because the SQL statement is being executed as-is. The database engine does not know if the statement is
 malicious or not.
 
-
-
 The statement can be read in two parts:
 
 * `SELECT * FROM USERS WHEDDRE username = "bob"`: look for all users where the username is "bob"
@@ -102,12 +100,8 @@ A front-end developer may quickly point out that adding form validation and sani
 prevent sending the malicious data but this can be easily disabled by turning off javascript, injecting a similar form
 without the validation, or even through a cross-site-scripting (XSS) attack.
 
-
-
 The vulnerability is not limited to data from forms, it can also happen when making a request to a server where the
 values from the request are used to lookup data in the database.
-
-
 
 For example, the GET request to  `https://youtube.com/watch?v=123abc`  is fetching a video from the youtube database
 with the id of `123abc`.

@@ -2,7 +2,8 @@
 layout: post
 title: "Side Project: Game Dev"
 date: 2019-03-03 06:00:00 -0700
-categories: game dev, blog, projects
+categories: [blog, projects]
+tags: [game dev]
 ---
 ![Gorillas Game](/assets/img/gorillas_screenshot.png){:class=""}
 
