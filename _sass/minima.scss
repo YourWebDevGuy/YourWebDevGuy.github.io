@@ -49,3 +49,14 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+// Custom Style
+
+.about img {
+  border-radius: 50%;
+  box-shadow: 5px 5px 5px #e5e5e5;
+  max-width: 128px;
+  margin-right: 10px;
+  display: inline-block;
+  float: left;
+}
